@@ -4,6 +4,8 @@ Select the language: [English](README.md) | [简体中文](README_zh.md) | [Ру
 
 ## PickStars hopes to provide better services for users in other countries, but as a personal work, language translation is difficult to do perfectly, if you are interested, you can submit your translation
 
+## The current translations are provided by AI. Please report any issues.
+
 # Thanks List
 - There are no translators available
 
