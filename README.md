@@ -1,6 +1,6 @@
 # Help with the translation of the PickStars
 
-Select the language: [English](README.md) | [简体中文](README_zh.md) | [Русский](README_ru.md)
+Select the language: [English](README.md) | [简体中文](README_zh.md)
 
 ## PickStars hopes to provide better services for users in other countries, but as a personal work, language translation is difficult to do perfectly, if you are interested, you can submit your translation
 
